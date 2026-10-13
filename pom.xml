@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-Windows64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
@@ -34,21 +34,21 @@
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-Linux64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-Linux_ARM32hf</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-Linux_ARM64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
@@ -57,14 +57,14 @@
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-MacOSX64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-MacOSX_ARM64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
@@ -73,14 +73,14 @@
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-Windows64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>com.github.stephengold</groupId>
             <artifactId>Libbulletjme-Windows_ARM64</artifactId>
-            <version>23.1.2</version>
+            <version>23.2.0</version>
             <classifier>SpDebug</classifier>
             <scope>runtime</scope>
         </dependency>
